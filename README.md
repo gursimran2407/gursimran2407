@@ -21,20 +21,3 @@ I'm a passionate Cloud Infrastructure Engineer from Canada
 
 | <a href="https://github.com/gursimran2407/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gursimran2407&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/gursimran2407/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gursimran2407&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-#### Top Repositories
-
-
-<a href="https://github.com/gursimran2407/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gursimran2407&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/gursimran2407/gursimran2407.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gursimran2407&repo=gursimran2407.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
-
-<a href="https://twitter.com/gursimran81">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/gursimran2407/gursimran2407/master/assets/twitter.svg" />
-</a>
