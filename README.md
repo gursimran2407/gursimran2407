@@ -8,8 +8,6 @@ I'm a passionate Cloud Infrastructure Engineer from Canada
 
 **About me**
 
-- 💼 Cloud Engineer Engineer at [Uberflip](http://uberflip.com/)
-
 - 💬 Ask me about anything [here](https://github.com/gursimran2407/gursimran2407/issues)
 
 ### Currently I am working with ...
