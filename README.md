@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="center"><a href="https://gursimran.info"><img width="80%" alt="Hello, I'm Gursimran!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://gursimran.info"><img width="80%" alt="Hello, I'm Gursimran!" /></a></p>
 
 <br />
 
